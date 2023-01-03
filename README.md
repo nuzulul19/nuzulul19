@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nuzulul Aulia (Zul)
-Software Developer with years of experience designing, developing and maintaining software applications. Proficient with PHP and Python in full-stack development.
+Highly skilled and motivated software engineer with over four years of experience designing, developing and maintaining high-volume transaction software applications. Well-versed in web frameworks like PHP Laravel and Python Django.
 
 ### Language & Skills
 

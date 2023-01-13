@@ -7,6 +7,7 @@ Highly skilled and motivated software engineer with over four years of experienc
 - Django
 - JavaScipt
 - PHP
+- Go
 - Laravel/Lumen
 - Web Development
 - App Development
